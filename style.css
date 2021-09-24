@@ -15,8 +15,11 @@ textarea {
 
 td {
   width: 80vw;
-  background-color: wheat;
   height: 80px;
+}
+
+textarea {
+  width:55vw;
 }
 
 tr {
